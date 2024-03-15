@@ -11,7 +11,7 @@ This project is a demonstration of integrating Stripe payment processing into a 
 The Stripe SDK is located at `application/libraries/stripe-php`.
 
 ## Important Notes
-- Ensure to update your Stripe secret key in `application/Home.php` and public key in `application/view/index.php` before using this project.
+- Ensure to update your Stripe secret key in `application/controllers/Home.php` and public key in `application/view/index.php` before using this project.
 
 ## Question
 ```php
